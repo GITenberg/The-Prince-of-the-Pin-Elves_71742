@@ -1,0 +1,48 @@
+_repo: The-Prince-of-the-Pin-Elves_71742
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sacker, Amy M. (Amy Maria)
+    aliases:
+    - Sacker, Amy Maria
+    - Sacker, Amy F.
+    birthdate: 1872
+    deathdate: 1965
+    gutenberg_agent_id: '9242'
+    url: http://www.gutenberg.org/2009/agents/9242
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Maria_Sacker
+creator:
+  author:
+    agent_name: Sleight, Charles Lee
+    gutenberg_agent_id: '56371'
+    url: http://www.gutenberg.org/2009/agents/56371
+description: ''
+gutenberg_issued: '2023-09-27'
+identifiers:
+  gutenberg: '71742'
+  lccn: '44030307'
+language: en
+pgterms:marc904: https://archive.org/details/princeofpinelves00slei/page/n11/mode/2up
+pgterms:marc905: 20220322224947sleight
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bL. C. Page and Company, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Princes -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Gnomes -- Juvenile fiction'
+- !lcsh 'Battles -- Juvenile fiction'
+- !lcsh 'Elves -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Prince of the Pin Elves
+url: http://www.gutenberg.org/ebooks/71742
