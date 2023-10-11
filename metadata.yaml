@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '9242'
     url: http://www.gutenberg.org/2009/agents/9242
     wikipedia: https://en.wikipedia.org/wiki/Amy_Maria_Sacker
+covers:
+- cover_type: archival
+  image_path: 71742-h/images/cover.jpg
 creator:
   author:
     agent_name: Sleight, Charles Lee
     gutenberg_agent_id: '56371'
     url: http://www.gutenberg.org/2009/agents/56371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71742#The-Prince-of-the-Pin-Elves
 gutenberg_issued: '2023-09-27'
 identifiers:
   gutenberg: '71742'
